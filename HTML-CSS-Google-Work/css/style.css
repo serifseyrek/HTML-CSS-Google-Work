@@ -1,0 +1,56 @@
+.div {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.table {
+    border: 0;
+    width: 90%;
+    margin: 0 5%;
+}
+
+.table-search {
+    background-color: rgb(189, 189, 189);
+    text-align: center;
+    justify-content: center;
+}
+.table-link1{
+    width: 37%;
+    background-color: #7EE5DA;
+}
+.table-link2{
+ background-color: #70CCC2;
+}
+.table-link3{
+    background-color: #62B3AA;
+    
+}
+
+
+/* .search-container {
+    text-align: center;    
+    margin: 0 5% 0;
+    background-color: rgb(189, 189, 189);
+}
+
+.link-container{
+    text-align: center;
+    margin: 0 5% 0;
+    display: flex;
+}
+
+
+.divcolumns {
+    justify-content: center;
+    display: flex;
+}
+
+.button {
+    margin: 2px;
+    width: 150px;
+}
+
+.searchbar {
+    width: 400px;
+} */
